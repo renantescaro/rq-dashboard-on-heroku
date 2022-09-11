@@ -29,6 +29,14 @@ Three settings must be configured:
 - `RQ_DASHBOARD_PASSWORD=pass`
 
 
+## Local
+´´´
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+´´´
+
 ## License
 
 This project is licensed under the 2-clause BSD license.
