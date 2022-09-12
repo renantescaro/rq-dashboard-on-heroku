@@ -4,6 +4,10 @@ A version of [RQ Dashboard][] that can be deployed to Heroku.
 [rq dashboard]: https://github.com/eoranged/rq-dashboard
 
 
+## Python version
+Python 3.10.5
+
+
 ## Deployment
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
