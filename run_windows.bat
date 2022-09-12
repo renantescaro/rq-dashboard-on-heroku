@@ -1,0 +1,5 @@
+set RQ_DASHBOARD_REDIS_URL=
+set RQ_DASHBOARD_USERNAME=admin
+set RQ_DASHBOARD_PASSWORD=
+
+python app.py
