@@ -1,7 +1,6 @@
 # rq-dashboard-on-heroku
-A version of [RQ Dashboard][] that can be deployed to Heroku.
+A version of [RQ Dashboard](https://github.com/eoranged/rq-dashboard) and [RQ Dashboard on Heroku](https://github.com/metabolize/rq-dashboard-on-heroku)
 
-[rq dashboard]: https://github.com/eoranged/rq-dashboard
 
 
 ## Python version
